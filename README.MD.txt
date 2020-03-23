@@ -8,3 +8,5 @@ bombs without detonating any of them, with help from clues about the number of n
 The numbers indicate the number of mines that are in squares touching the current square. 
 There must be this many mines in adjacent squares - there cannot be fewer or more mines than this.
 New Functions
+
+moiz changed this file
